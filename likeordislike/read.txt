@@ -1,1 +1,8 @@
-Tis is a model on phone like/dislike predictor
+This is a model on phone like/dislike predictor
+
+USED:
+    Pandas
+    Scikit Learn
+    Numpy
+    Matplotlib
+Developed the Model From Scratch without any API's.
